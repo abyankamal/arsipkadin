@@ -9,17 +9,17 @@
         </li>
         <li>
             <a href="#" data-toggle="modal" data-target="#myLose">
-                <i class="fa fa-reply"><i class="fa fa-envelope"></i></i> <span>Tambah Data Surat Keluar</span>
+                <i class="fa fa-reply"><i class="fa fa-envelope"></i></i> <span>Data Surat Keluar</span>
             </a>
         </li>
         <li>
             <a href="#" data-toggle="modal" data-target="#myMod">
-                <i class="fa fa-share"><i class="fa fa-envelope"></i></i> <span>Tambah Data Surat Masuk</span>
+                <i class="fa fa-share"><i class="fa fa-envelope"></i></i> <span>Data Surat Masuk</span>
             </a>
         </li>
         <li>
             <a href="#" data-toggle="modal" data-target="#myDispo">
-                <i class="fa fa-exchange"></i> <span>Disposisi Surat</span>
+                <i class="fa fa-exchange"></i> <span>Disposisikan Surati</span>
             </a>
         </li>
         <li>

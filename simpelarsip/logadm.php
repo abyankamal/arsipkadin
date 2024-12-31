@@ -25,15 +25,7 @@ if ($_SESSION['username']) {
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h4 class="modal-title">
-            <center>
-              <font><b>
-                  <font color="purple">
-                    << /font>
-                      <font color="#1abc9c">S</font>A<font color="#1abc9c">P</font>S <font color="purple">/></font>
-                </b></font>
-            </center>
-          </h4>
+          <img src="../img/logo.PNG">
         </div>
         <div class="modal-body">
           <?php
@@ -74,7 +66,7 @@ if ($_SESSION['username']) {
     </div>
     <br>
     <center>
-      <font>Copyright &copy; 2024. <?php $copy = mysqli_query($konek, "select * from config");
+      <font>Copyright &copy; 2018. <?php $copy = mysqli_query($konek, "select * from config");
                                     echo $copy['copyright']; ?></font>
     </center>
   </div>

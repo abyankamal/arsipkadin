@@ -28,7 +28,7 @@ if (empty($_SESSION['username'])) {
 <div class="container">
 <div class="col-md-5">
   <a href="../index.php" target="_blank" title="Simple Aplikasi Pengarsipan Surat">
-<img src="../img/LOG_KADIN.jpg" width="80px"></a>
+<img src="../img/logo.PNG"></a>
 
 </div>
 </div>

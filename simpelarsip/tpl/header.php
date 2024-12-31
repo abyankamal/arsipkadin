@@ -27,7 +27,7 @@ require_once '../assets/configuration/konek.php';
     <header class="header">
         <a href="index.php" class="logo">
             <!-- Add the class icon to your logo image or logo icon to add the margining -->
-            <img src="../img/LOG_KADIN.jpg" width="50px" style="margin-bottom: 5px;">
+            Kadin Kota Bandung
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
